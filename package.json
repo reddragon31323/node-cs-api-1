@@ -1,0 +1,26 @@
+{
+  "name": "node-cs-api-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reddragon31323/node-cs-api-1.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express",
+    "pg",
+    "1"
+  ],
+  "author": "Jean Felipe dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reddragon31323/node-cs-api-1/issues"
+  },
+  "homepage": "https://github.com/reddragon31323/node-cs-api-1#readme"
+}
